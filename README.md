@@ -1,12 +1,12 @@
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Secular+One&size=50&duration=2500&pause=1000&center=true&width=1000&height=150&lines=Hello!+Welcome+to+my+GitHub;This+is+OutFrag;A+developer+from+Bangladesh+%F0%9F%87%A7%F0%9F%87%A9)](https://git.io/typing-svg)
 
-## <img src="https://img.icons8.com/fluency/24/000000/guest-male.png"/> About Me
+## About Me
 
 <p align="justify">Hello! This is <b>OutFrag.</b> I'm a developer from Bangladesh. I completed bachelor's degree in Computer Science and Software Engineering from <a href="https://www.aiub.edu/" rel="nofollow">American International University-Bangladesh</a>. Every day, I learn new things and confront new obstacles, and I aim to give it my all in order to deliver the finest outcomes possible. I consider myself to be a lifelong learner who likes experimenting with new  technology. I'm looking for a method to connect with an organization that can help me develop my skills, expand my knowledge, and reach my full potential I'm open to a variety of ideas that might help me gain perspective.</p>
 <br>
 <br>
 
-## <img src="https://img.icons8.com/external-kiranshastry-lineal-color-kiranshastry/20/000000/external-skills-management-kiranshastry-lineal-color-kiranshastry-6.png"/> Here is some of my skills
+## Here is some of my skills
 
 <code><a href="https://angular.io" target="_blank" rel="noreferrer"> <img src="https://angular.io/assets/images/logos/angular/angular.svg" alt="angular" width="40" height="40"/> </a> </code> &nbsp;&nbsp;
 <code><a href="https://angular.io" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/angularjs/angularjs-original-wordmark.svg" alt="angularjs" width="40" height="40"/> </a> </code> &nbsp;&nbsp;
@@ -54,7 +54,7 @@
 
 ## Github Stats
 
-<div align="center"><img src="https://github-readme-stats.vercel.app/api?username=outfrag&show_icons=true&count_private=true&hide_border=true" align="center" /></div>
+<div align="center"><img src="https://github-readme-stats.vercel.app/api?username=outfrag&show_icons=true&count_private=true&hide_border=true&theme=radical" align="center" /></div>
 
 <br/>
 
