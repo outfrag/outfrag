@@ -44,6 +44,11 @@
 <a href="https://github.com/outfrag/github-readme-stats"><img alt="OutFrag's Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=outfrag&langs_count=8&count_private=true&layout=compact&theme=react&hide_border=true&bg_color=0D1117" /></a>
 <br>
 <br>
+
+## <img src="https://img.icons8.com/color/20/000000/code.png"/> Most used Language
+
+<a href="https://github.com/rahibulbulrahi/github-readme-stats"><img alt="Rahi Bulbul's Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=rahibulbulrahi&langs_count=8&count_private=true&layout=compact&theme=react&hide_border=true&bg_color=0D1117" /></a>
+
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=outfrag&label=Profile%20views&color=0e75b6&style=flat" alt="outfrag" /> </p>
 <br>
 
