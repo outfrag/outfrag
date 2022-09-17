@@ -40,33 +40,3 @@
 
 <br>
 <br>
-## <img src="https://img.icons8.com/color/20/000000/code.png"/> Most used Language
-<a href="https://github.com/outfrag/github-readme-stats"><img alt="OutFrag's Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=outfrag&langs_count=8&count_private=true&layout=compact&theme=react&hide_border=true&bg_color=0D1117" /></a>
-<br>
-<br>
-
-## <img src="https://img.icons8.com/color/20/000000/code.png"/> Most used Language
-
-<a href="https://github.com/rahibulbulrahi/github-readme-stats"><img alt="Rahi Bulbul's Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=rahibulbulrahi&langs_count=8&count_private=true&layout=compact&theme=react&hide_border=true&bg_color=0D1117" /></a>
-
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=outfrag&label=Profile%20views&color=0e75b6&style=flat" alt="outfrag" /> </p>
-<br>
-
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=outfrag" alt="outfrag" /></a> </p>
-<br>
-
-<p align="left"> <a href="https://twitter.com/outfragging" target="blank"><img src="https://img.shields.io/twitter/follow/outfragging?logo=twitter&style=for-the-badge" alt="outfragging" /></a> </p>
-<br>
-
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://twitter.com/outfragging" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="outfragging" height="30" width="40" /></a>
-<a href="https://discord.gg/gcjAzgTKzE" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="gcjAzgTKzE" height="30" width="40" /></a>
-</p>
-<br>
-
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=outfrag&show_icons=true&locale=en&layout=compact" alt="outfrag" /></p>
-<br>
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=outfrag&show_icons=true&locale=en" alt="outfrag" /></p>
-<br>
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=outfrag&" alt="outfrag" /></p>
